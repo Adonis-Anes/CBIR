@@ -24,12 +24,12 @@ Crear:
 Activar:
 
 - Windows: 
-
 `cbir_env\Scripts\activate`
 
 
 ### 2. Instalar librerías
 
+`pip install -r requirements.txt`
 
 ### 3. Ejecutar la aplicación
 El comando se debe ejecutar desde el directorio principal
