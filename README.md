@@ -40,3 +40,7 @@ El comando se debe ejecutar desde el directorio principal
 Las imágenes fueron obtenidas manualmente de Google.
 
 Enlace a las imágenes: [COMPLETAR]
+
+### 3. Requisitos
+
+Python >= 12
