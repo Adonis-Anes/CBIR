@@ -16,6 +16,17 @@ Proyecto CBIR para clase
 
 ### 1. Crear y activar el entorno virtual
 
+Crear:
+
+- Windows:
+ `python -m venv cbir_env`
+
+Activar:
+
+- Windows: 
+
+`cbir_env\Scripts\activate`
+
 
 ### 2. Instalar librerías
 
@@ -27,4 +38,5 @@ El comando se debe ejecutar desde el directorio principal
 
 ## Imágenes
 Las imágenes fueron obtenidas manualmente de Google.
+
 Enlace a las imágenes: [COMPLETAR]
