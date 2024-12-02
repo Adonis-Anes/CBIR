@@ -24,3 +24,7 @@ Proyecto CBIR para clase
 El comando se debe ejecutar desde el directorio principal
 
 ` .\cbir_env\Scripts\python.exe -m streamlit run ui/app.py`
+
+## Imágenes
+Las imágenes fueron obtenidas manualmente de Google.
+Enlace a las imágenes: [COMPLETAR]
