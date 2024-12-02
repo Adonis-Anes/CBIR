@@ -15,6 +15,15 @@ Proyecto CBIR para clase
 10. `config.py`: Archivo centralizado para configurar rutas, hiperparámetros, y otros valores globales.
 
 
+## Ejecución
 
-RUN:
+### 1. Crear y activar el entorno virtual
+
+
+### 2. Instalar librerías
+
+
+### 3. Ejecutar la aplicación
+El comando se debe ejecutar desde el directorio principal
+
 ` .\cbir_env\Scripts\python.exe -m streamlit run ui/app.py`
